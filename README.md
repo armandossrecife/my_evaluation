@@ -22,3 +22,6 @@ Related to "architectural impact issues" found by **issues in commits with criti
 
 RQ0) What is the proportion of issues classified as impacting architectural design, as observed in each analyzed software repository?
 
+**Understanding the Research Questions:**
+
+RQ0: This question focuses on the prevalence of architectural impact issues in each repository. You can calculate the percentage of issues classified as "Yes" for architectural impact for each repository to answer this question.
